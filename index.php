@@ -38,13 +38,13 @@
               sustainable and equitable fashion landscape.</p>
 
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
+              <div class="icon"><i class="bi bi-lightbulb-fill"></i></div>
               <h4 class="title"><a>The aim of creating this website</a></h4>
               <p class="description"> we want to distribute our knowledge and experiences related to the fashion in the past <br>and to raise awareness of the issue related to fashion and impacts. </p>
             </div>
 
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
-              <div class="icon"><i class="bx bx-gift"></i></div>
+              <div class="icon"><i class="bi bi-lightbulb-fill"></i></div>
               <h4 class="title"><a>Thing that will be involed in outr theme</a></h4>
               <p class="description">
                 - Social <br>
@@ -54,7 +54,7 @@
             </div>                                              
 
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon"><i class="bx bx-atom"></i></div>
+              <div class="icon"><i class="bi bi-lightbulb-fill"></i></div>
               <h4 class="title"><a>The reason why we should be aware of our theme</a></h4>
               <p class="description">to stop neglecting the past fashion and start protecting it</p>
             </div>
